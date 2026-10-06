@@ -1,9 +1,9 @@
 # kurs-guide
 
-A small Claude Code skill: the course companion for "The Method", a 7-day course that teaches
-small-business owners to run their business with Claude. It answers in German, English or Hebrew,
-tells the learner which course day they are on and what comes next, and sends them back to the right
-step on the course page.
+A small Claude Code skill: the course companion for "The Method", a course with two tracks: a 7-day course that
+teaches small-business owners to run their business with Claude, and a 3-day everyday course for private use.
+It answers in German, English or Hebrew, tells the learner which course day they are on and what comes next,
+and sends them back to the right step on the course page.
 
 The course: https://digital.wildmoments.at/kurs/
 
